@@ -1,11 +1,12 @@
 # Site wide configuration
 
-title: Journal
+title: IC
 locale: en_US
 description: Research journal
 logo: magritte.png
 search: true
-url: https://thsousa.github.io/journal
+url: http://127.0.0.1:4000/
+#url: https://thsousa.github.io/journal
 
 # Jekyll configuration
 

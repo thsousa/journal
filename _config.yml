@@ -2,8 +2,8 @@
 
 title: Journal
 locale: en_US
-description: Research journal.
-logo: site-logo.png
+description: Research journal
+logo: magritte.png
 search: true
 url: https://thsousa.github.io/journal
 

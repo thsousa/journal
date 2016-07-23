@@ -6,17 +6,14 @@
 #- title: Articles
 #  url: /articles/
 
-- title: Posts
+- title: All Posts
   url: /blog/
 
 #- title: Theme Setup
 #  url: /theme-setup/
 
-<<<<<<< HEAD
 - title: Tags
   url: /tags/
 
-=======
->>>>>>> origin/gh-pages
 - title: Search
   url: /search/

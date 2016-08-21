@@ -1,6 +1,6 @@
 ---
 layout: page
-title: All Posts
+title: Posts
 excerpt: "An archive of blog posts sorted by date."
 search_omit: true
 ---
